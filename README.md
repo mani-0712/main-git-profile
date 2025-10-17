@@ -72,11 +72,8 @@ He’s currently developing **Synapsee** — an **AI-powered cognitive augmentat
 
 <!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
-[linkedin-url]: https://www.linkedin.com/in/manikanta-kinjarapu/
-[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/
+[linkedin-url]: https://www.linkedin.com/in/mkkinjarapu/
 [youtube-shield]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
-[youtube-url]: https://www.youtube.com/
-[telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
-[telegram-url]: https://t.me/
+[youtube-url]: https://www.youtube.com/@CodeWithPheonix
+
 
