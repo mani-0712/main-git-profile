@@ -1,12 +1,12 @@
 # 🪐 Welcome to the Cognitive Universe of **Manikanta Kinjarapu** 🤖
 
-![Banner](https://github.com/ManikantaKinjarapu/ManikantaKinjarapu/blob/main/banner.gif)
+![Banner](https://github.com/mani-0712/mani-0712/blob/main/banner.gif)
 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 [![Instagram][instagram-shield]][instagram-url] 
 [![YouTube][youtube-shield]][youtube-url]
 [![Telegram][telegram-shield]][telegram-url]
-<img src="https://komarev.com/ghpvc/?username=ManikantaKinjarapu&label=Profile%20views&color=00C9A7&style=flat" alt="ManikantaKinjarapu" width="150" height="28" />
+<img src="https://komarev.com/ghpvc/?username=mani-0712&label=Profile%20views&color=00C9A7&style=flat" alt="profile views" width="150" height="28" />
 
 ---
 
@@ -48,12 +48,12 @@ He’s currently developing **Synapsee** — an **AI-powered cognitive augmentat
 
 ### 📊 Mission Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManikantaKinjarapu&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaKinjarapu&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mani-0712&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani-0712&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManikantaKinjarapu&theme=radical&no-frame=true&margin-w=5" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mani-0712&theme=radical&no-frame=true&margin-w=5" alt="Trophies" />
 </p>
 
 ---
@@ -70,8 +70,6 @@ He’s currently developing **Synapsee** — an **AI-powered cognitive augmentat
 
 ⭐ *“Bridging technology and humanity — one algorithm at a time.”*
 
----
-
 <!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
 [linkedin-url]: https://www.linkedin.com/in/manikanta-kinjarapu/
@@ -81,3 +79,4 @@ He’s currently developing **Synapsee** — an **AI-powered cognitive augmentat
 [youtube-url]: https://www.youtube.com/
 [telegram-shield]: https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=Telegram&logoColor=white
 [telegram-url]: https://t.me/
+
