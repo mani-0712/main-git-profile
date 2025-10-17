@@ -3,9 +3,9 @@
 ![Banner](https://github.com/mani-0712/mani-0712/blob/main/banner.gif)
 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
-[![Instagram][instagram-shield]][instagram-url] 
+
 [![YouTube][youtube-shield]][youtube-url]
-[![Telegram][telegram-shield]][telegram-url]
+
 <img src="https://komarev.com/ghpvc/?username=mani-0712&label=Profile%20views&color=00C9A7&style=flat" alt="profile views" width="150" height="28" />
 
 ---
@@ -60,10 +60,10 @@ He’s currently developing **Synapsee** — an **AI-powered cognitive augmentat
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/manikanta-kinjarapu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
-  <a href="https://t.me/" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" height="45"/></a>
+  <a href="https://www.linkedin.com/in/mkkinjarapu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  
+  <a href="https://www.youtube.com/@CodeWithPheonix/" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="45"/></a>
+  
 </p>
 
 ---
